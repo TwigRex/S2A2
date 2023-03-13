@@ -29,7 +29,7 @@
 }
 @media screen and (min-width: 768px) and (max-width: 1023px) {
     #content {
-        background-image: url(RoomDay.jpeg);   
+        background-image: url(roomDay.jpeg);   
         height: 200vh;
         width: 400vh;
     }
